@@ -1,0 +1,69 @@
+﻿/* Colors
+    https://coolors.co/ 
+    #878787 battleship grey
+    #A08794 mountbatten pink
+    #BB7E8C english lavender
+    #C9B6BE black shadow
+    #D1BECF thistle
+*/
+
+/* Global Style
+-------------------------------------------*/
+body {
+    color: black;
+}
+
+img 
+{
+    width: 300px;
+}
+
+a {
+    color: #D1BECF;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* Profile Style
+-------------------------------------------*/
+header {
+    background: #BB7E8C;
+}
+
+.projects a {
+    color: #C9B6BE;
+    background: #A08794;
+    text-decoration: none;
+    padding: 4px;
+    border-radius: 4px;
+}
+
+.projects a:hover {
+    background:rgba(135, 135, 135, 80%);
+}
+
+/* Projects Style
+-------------------------------------------*/
+.projects {
+    background: #878787;
+}
+
+/* Work Experience Style
+-------------------------------------------*/
+.work-experience {
+    background: #BB7E8C;
+}
+
+/* Education Style
+-------------------------------------------*/
+.education {
+    background: #D1BECF;
+}
+/* Contact Style
+-------------------------------------------*/
+
+footer {
+    background: #C9B6BE;
+}
